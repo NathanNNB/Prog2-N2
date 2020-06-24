@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Prog2-N2" />
+        <module name="GoogleTrends" />
+        <module name="GoogleTrendsMatheus" />
       </profile>
     </annotationProcessing>
   </component>
